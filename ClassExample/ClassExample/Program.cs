@@ -10,6 +10,13 @@ namespace ClassExample
             string fname = Console.ReadLine();
             return fname;
         }
+        public static string LastName()
+        {
+            Console.WriteLine("Please Enter your Last Name: ");
+            string lname = Console.ReadLine();
+            return lname;
+        }
+
 
         static void Main(string[] args)
         {
