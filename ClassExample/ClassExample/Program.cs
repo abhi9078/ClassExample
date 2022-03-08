@@ -17,10 +17,21 @@ namespace ClassExample
             return lname;
         }
 
+        public static int Age()
+        {
+            Console.WriteLine("Enter Your Age: ");
+            int age = Convert.ToInt32(Console.ReadLine());
+            return age;
+        }
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to the Program");
+            string fname = FirstName();
+            string lname = LastName();
+            int age = Age();
+            Console.WriteLine("Hello " + fname + " " + lname + ", Your age is:     " + age);
+
         }
     }
 }

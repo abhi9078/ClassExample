@@ -1,0 +1,16 @@
+D:\.Net\ClassExample\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.exe
+D:\.Net\ClassExample\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.deps.json
+D:\.Net\ClassExample\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.runtimeconfig.json
+D:\.Net\ClassExample\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.runtimeconfig.dev.json
+D:\.Net\ClassExample\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.dll
+D:\.Net\ClassExample\ClassExample\ClassExample\bin\Debug\net5.0\ClassExample.pdb
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.csproj.AssemblyReference.cache
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.AssemblyInfoInputs.cache
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.AssemblyInfo.cs
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.csproj.CoreCompileInputs.cache
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.dll
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\refint\ClassExample.dll
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.pdb
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\ClassExample.genruntimeconfig.cache
+D:\.Net\ClassExample\ClassExample\ClassExample\obj\Debug\net5.0\ref\ClassExample.dll
